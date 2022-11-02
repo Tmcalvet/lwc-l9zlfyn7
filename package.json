@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/amorillas@leadclic.com.lwc-l9zlfyn7",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve pL09HvUeFJ2qPgbmIsYm --open"
+  }
+}
